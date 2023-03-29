@@ -126,7 +126,7 @@
     <comment>Button text to initiate a chat with the person the user has been matched up with</comment>
   </data>
   <data name="ChatWithMessageGreeting" xml:space="preserve">
-    <value>Hallo</value>
+    <value>Hallo, es sieht so aus, als wären wir diese Woche von {0} zusammengelost worden. Es wäre es wäre toll, wenn wir uns auf einen Kaffee oder einen Anruf treffen könnten.</value>
     <comment>This is the greeting of the chat with matched member message</comment>
   </data>
   <data name="DoneButtonText" xml:space="preserve">
@@ -178,7 +178,7 @@
     <comment>The title text for the pairup notification adaptive card</comment>
   </data>
   <data name="MeetupContent" xml:space="preserve">
-    <value>Hallo, anscheinend haben wir {0} diese Woche abgestimmt. Es wäre toll, wenn wir uns auf einen Kaffee oder ein Mittagessen treffen oder telefonieren könnten, wenn Sie Zeit haben.</value>
+    <value>Hallo, es sieht so aus, als wären wir diese Woche von {0} zusammengelost worden. Es wäre es wäre toll, wenn wir uns auf einen Kaffee oder einen Anruf treffen könnten.</value>
     <comment>Content of the Meetup for the propose meeting</comment>
   </data>
   <data name="MeetupTitle" xml:space="preserve">
